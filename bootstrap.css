@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(31, 80, 126);
+}
+nav{
+    width: 100vw;
+}
+
+.dropdown-menu{
+    width: 400px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.leftColumnColor {
+    background-color: rgb(78, 148, 228);
+}
+
+.borderLeft{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+
+.rightColumnColor{
+    background-color: rgb(255, 250, 250);
+}
+
+
