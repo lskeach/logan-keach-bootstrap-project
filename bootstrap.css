@@ -1,33 +1,33 @@
-body{
-    background-color: rgb(31, 80, 126);
-}
-nav{
-    width: 100vw;
+.column2{
+    justify-content: flex-start;
 }
 
-.dropdown-menu{
-    width: 400px;
+.btn:hover{
+    background-color: rgb(211, 11, 11);
 }
 
-.row{
-    display: flex;
+.email-sender{
+    text-align: center;
+    font-size: 0.5;
+    font-weight: bold;
+}
+
+.email-name .h2{
+    font-size: small;
+    text-align: center;
+}
+
+.email-main{
     justify-content: center;
-    align-items:center;
+    background-color: rgb(116, 109, 109);
 }
 
-.leftColumnColor {
-    background-color: rgb(78, 148, 228);
-}
-
-.borderLeft{
-    display: flex;
-    justify-content: center;
-    align-items:center;
+.nav{
+    background-color: rgb(197, 195, 195);
 }
 
 
-.rightColumnColor{
-    background-color: rgb(255, 250, 250);
+
+.navbar-expand-lg{
+    background-color: rgb(255, 27, 27);
 }
-
-
